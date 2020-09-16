@@ -21,8 +21,7 @@ As a frontend developer most of my time I write JavaScript. But in my free time 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedraju"/>
 
 ## Some of my projects 🐱‍🏍
-* [Collection of React Projects](https://github.com/rashedraju/goodie) - **Recommended** ✨
-* [Github Profile Search](https://github.com/rashedraju/github-profiles)
+* [goodie](https://github.com/rashedraju/goodie) - **Recommended** ✨
 
 ## You can reach out 😊😊
 Feel free to contact me about the problems. I will try to help as much as I can 😉
