@@ -15,6 +15,7 @@ As a frontend developer most of my time I write JavaScript. But in my free time 
 [![](https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=white)]()
 [![](https://img.shields.io/badge/react-132bb1?style=for-the-badge&logo=react&logoColor=white)]()
 [![](https://img.shields.io/badge/php-f67317?style=for-the-badge&logo=php&logoColor=white)]()
+[![](https://img.shields.io/badge/bootstrap-cc6699?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedraju"/>
 
