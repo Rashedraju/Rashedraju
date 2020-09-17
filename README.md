@@ -13,7 +13,7 @@ As a frontend developer most of my time I write JavaScript. But in my free time 
 [![](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)]()
 [![](https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=white)]()
-[![](https://img.shields.io/badge/react-132bb1?style=for-the-badge&logo=react&logoColor=white)]()
+[![](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)]()
 [![](https://img.shields.io/badge/php-f67317?style=for-the-badge&logo=php&logoColor=white)]()
 [![](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
