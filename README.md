@@ -20,7 +20,8 @@ As a frontend developer most of my time I write JavaScript. But in my free time 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedraju"/>
 
 ## Some of my projects 🐱‍🏍
-* [goodie](https://github.com/rashedraju/goodie) - **Recommended** ✨
+* [makemytrip](https://github.com/Rashedraju/makemytrip)
+* [goodie](https://github.com/rashedraju/goodie)
 
 ## You can reach out 😊😊
 Feel free to contact me about the problems. I will try to help as much as I can 😉
