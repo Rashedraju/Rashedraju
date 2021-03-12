@@ -19,7 +19,7 @@ As a frontend developer most of my time I write JavaScript. But in my free time 
 
 ## Some of my projects 🐱‍🏍
 * [makemytrip](https://github.com/Rashedraju/makemytrip)
-* [goodie](https://github.com/rashedraju/goodie)
+* [foodie](https://github.com/rashedraju/foodie)
 
 ## You can reach out 😊😊
 Feel free to contact me about the problems. I will try to help as much as I can 😉
